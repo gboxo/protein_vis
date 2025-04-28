@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Demo Dipeptide (Local)",
+    "path": "demo",
+    "pdbId": null
+  },
+  {
+    "name": "1B2Y (Local Example)",
+    "path": "1B2Y",
+    "pdbId": null
+  }
+] 

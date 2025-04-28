@@ -1,0 +1,15 @@
+[
+  {
+    "name": "By Chain",
+    "schemeId": "chainid"
+  },
+  {
+    "name": "By Residue Index",
+    "schemeId": "residueindex"
+  },
+  {
+    "name": "Uniform Gray",
+    "schemeId": "uniform",
+    "params": { "value": "gray" }
+  }
+]
